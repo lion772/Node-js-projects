@@ -1,0 +1,15 @@
+{
+  "name": "1-first-class",
+  "version": "1.0.0",
+  "description": "this is a intro to node project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Steinke de Mello",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
